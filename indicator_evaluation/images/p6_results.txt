@@ -1,0 +1,4 @@
+Cumulative Return, 0.012300, 5.786100
+Std of Daily Returns, 0.017004, 0.004548
+Mean of Daily Returns, 0.000168, 0.003817
+Sharpe Ratio, 0.156918, 13.322770

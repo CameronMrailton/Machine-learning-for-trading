@@ -1,0 +1,4 @@
+,Cumulative Return,Average Daily Return,Std Daily Return,Sharpe Ratio,Final Value
+Manual Strategy,-0.066787,-0.000106,0.007908,-0.213168,93321.25
+Strategy Learner,-0.159837,-0.000339,0.003846,-1.398419,84016.25
+Benchmark,-0.085309,-0.000141,0.008501,-0.263617,91273.1
